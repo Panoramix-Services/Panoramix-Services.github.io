@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "PanX-5",
-    "currentPage": "index.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -59,7 +59,7 @@
     "sitemapSwitcherAuto": "on",
     "cookiesAlert": false,
     "gdpr": false,
-    "google-analytics": "<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-39357748-1\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-39357748-1');\n</script>"
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
